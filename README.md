@@ -14,13 +14,12 @@ This repo serves as my organized workspace for all course requirements, includin
 - **Instructor:** JENKIELYN TORRES
 - **School Year:** 2026-2027
 
-📂 **Repository Structure**
-cloud-computing-course/
-├── activities/
-├── projects/
-├── notes/
-├── reflections/
-└── README.md
+## 📂 Directory / Table of Contents
+| Section | Description |
+| :--- | :--- |
+| **Activities** | Hands-on lab outputs and cloud deployments |
+| **Notes** | Summaries of cloud service models & architecture |
+| **Projects** | Major course requirements and capstone integrations |
 
 📖 **Key Concepts Covered**
 - Cloud Computing Basics
