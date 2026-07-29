@@ -8,13 +8,23 @@ This repo serves as my organized workspace for all course requirements, includin
 - Mini-projects
 - Reflection papers
 
-## 📂 Directory / Table of Contents
-| Section | Description |
-| :--- | :--- |
-| **Activities** | Hands-on lab outputs and cloud deployments |
-| **Notes** | Summaries of cloud service models & architecture |
-| **Projects** | Major course requirements and capstone integrations |
+👤 **Student Information**
+- **Name:** Rayos, Rommel
+- **Course/Section:** BSIT 4-H
+- **Instructor:** JENKIELYN TORRES
+- **School Year:** 2026-2027
 
-## 🚀 Technologies & Tools
-- **Version Control:** Git & GitHub
-- **Cloud Concepts:** IaaS, PaaS, SaaS, Deployment Models (Public, Private, Hybrid)
+📂 **Repository Structure**
+cloud-computing-course/
+├── activities/
+├── projects/
+├── notes/
+├── reflections/
+└── README.md
+
+📖 **Key Concepts Covered**
+- Cloud Computing Basics
+- Service Models (IaaS, PaaS, SaaS)
+- Deployment Models (Public, Private, Hybrid, Community)
+- Version Control with Git & GitHub
+- Cloud Infrastructure Management
