@@ -29,7 +29,7 @@ The AWS Management Console is a web-based interface that allows users to create,
 
 ## Screenshot
 
-![AWS Homepage](screenshots/aws-homepage.png)
+![AWS Homepage](screenshots/aws-homepage.png.png)
 
 
 **Source:** https://aws.amazon.com/
