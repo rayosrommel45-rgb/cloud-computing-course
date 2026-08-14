@@ -1,0 +1,17 @@
+# Laboratory-03-Multi-Cloud-Explorer
+
+Welcome to my research and evaluation of the world's leading cloud platforms: AWS, Microsoft Azure, and Google Cloud Platform.
+
+## Mission Objectives
+- Explore and compare major public cloud platforms.
+- Analyze business requirements for cloud solutions.
+- Develop professional technical documentation.
+
+## Repository Structure
+- `aws-research.md`: Research on Amazon Web Services.
+- `azure-research.md`: Research on Microsoft Azure.
+- `gcp-research.md`: Research on Google Cloud Platform.
+- `cloud-platform-comparison.md`: Comparative analysis and service matching.
+- `client-recommendations.md`: Solutions for specific business scenarios.
+- `reflection.md`: Final reflections on the mission.
+- `screenshots/`: Evidence of research and experiments.
